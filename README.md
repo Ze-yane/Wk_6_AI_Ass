@@ -26,7 +26,7 @@ All work is implemented and documented in a **Jupyter Notebook** included in thi
 
 | File                                | Description                                           |
 | ----------------------------------- | ----------------------------------------------------- |
-| **AI_Readmission_Prediction.ipynb** | Main notebook containing the full assignment answers. |
+| **AI_WK6_ASS.ipynb** | Main notebook containing the full assignment answers. |
 | **README.md**                       | Project description and documentation.                |
 
 ---
